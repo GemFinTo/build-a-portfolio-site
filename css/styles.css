@@ -1,0 +1,63 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+
+}
+/* Style for horizontal line */
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 7px solid #bcbbbb;
+	margin: 1em 0;
+	padding: 0;
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.text-bold {
+	font-weight: 400;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+/* Font size for the name */
+.title-super {
+	font-size: 60px;
+}
+/* Style for logo */
+.title-logo {
+	margin: 20px 0;
+}
+/* Style for CSS Validator */
+.validator {
+	margin-top: 20px;
+	border: 0;
+	width: 88px;
+	height: 31px;
+}
+/* Style for main image */
+.main-img {
+	height: 100%;
+	width: 100%;
+}
+/* Style for 3 images */
+.sub-img {
+	height: 300px;
+	width: 100%;
+}
+.toronto-map{
+	height: 100%;
+	width: 100%; 
+}
+/* Style for Blue Jay's schedule within modal */
+.schedule{
+	border: none;
+	margin: 0;
+	height: 600px;
+	width: 580px; 
+}
